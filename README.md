@@ -1,9 +1,8 @@
 <h1 align="center"> Sean O'Toole </h1>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?label=Follow&style=social)](https://twitter.com/yourusername)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourusername/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://bkaddoum.github.io)
+[![GitHub followers](https://img.shields.io/github/followers/schroedersoftwaretx?label=Follow&style=social)](https://github.com/schroedersoftwaretx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/seanotoole04/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)]([https://bkaddoum.github.io](https://schroedersoftware.com/))
 
 
 ## 🛡️ Cybersecurity Professional | Data Security & IAM 🔐
@@ -35,17 +34,16 @@ Technical security expert specializing in the intersection of **Identity and Dat
 
 You can find me on the web or reach out for collaboration and discussions on various platforms:
 
-- 🌐 [Website](Your Website URL)
-- 💼 [LinkedIn](https://www.linkedin.com/in/becharakaddoum/)
-- 🐦 [Twitter](Your Twitter URL)
+- 🌐 [Website]([https://schroedersoftware.com/))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/becharakaddoum/](https://www.linkedin.com/in/seanotoole04/))
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bkaddoum&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=schroedersoftwaretx&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkaddoum&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schroedersoftwaretx&layout=compact)
 
 ---
 
