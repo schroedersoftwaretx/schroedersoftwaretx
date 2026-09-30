@@ -34,8 +34,8 @@ Technical security expert specializing in the intersection of **Identity and Dat
 
 You can find me on the web or reach out for collaboration and discussions on various platforms:
 
-- 🌐 [Website]([https://schroedersoftware.com/))
-- 💼 [LinkedIn]([https://www.linkedin.com/in/becharakaddoum/](https://www.linkedin.com/in/seanotoole04/))
+- 🌐 [Website](https://schroedersoftware.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/seanotoole04/)
 
 ---
 
