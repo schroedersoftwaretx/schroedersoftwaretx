@@ -6,9 +6,9 @@
   <a href="https://schroedersoftware.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-orange" alt="Portfolio"></a>
 </p>
 
-## 📊 Software & Data Engineer | Decision Systems Under Uncertainty
+## 📊 Software & Data Engineer | Building With Numbers
 
-I build complete systems rather than isolated analyses — data ingestion through modeling, backend, frontend and deployment. The thread running through most of my work is **quantifying decision quality under uncertainty with correct handling of time**: point-in-time snapshots that prevent look-ahead bias, immutable source data with everything downstream derived, and valuation measured against the next-best alternative.
+I build complete systems related to analysis: data ingestion, modeling, backend, frontend, and deployment. I love to be involved in every step of the data pipeline, **helping make educated decisions using all availale statistics**: point-in-time snapshots that prevent look-ahead bias, immutable source data with everything downstream derived, and valuation measured against the next-best alternative.
 
 Currently completing a **Master in Business Analytics and Data Science at IE University** in Madrid, after a B.S. in Computer Science (Highest Honors, Mathematics minor) from UTSA.
 
